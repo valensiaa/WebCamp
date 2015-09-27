@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	width: 2624px;
+	height: 2047px;
+}
+.header {
+    width: 1920px;
+    height: 450px;
+    margin: 0;
+    padding: 0;
+    background: url(image/test-case-1.jpg) no-repeat 100%; 
+
+}
+.cl-md-left {
+    width: 1532px;
+    height: 1115px;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    float: left;
+
+}
+.cl-md-right {
+    width: 1096px;
+    height: 1096px;
+    margin: 0;
+    padding: 0;
+    background: url(image/test-case-2.jpg) no-repeat 100%;
+    float: left;
+}
+.oil {
+    width: 348px;
+    height: 630px;
+    margin-left: 50px;
+    margin-top: -100px;
+    padding: 0;
+    background-color: blue;
+    z-index: 5;
+    position: relative;
+    background: url(image/test-case-3.png) no-repeat 100%;
+   
+}
+.form {
+    width: 200px;
+    height: 500px;
+    margin-left: 700px;
+    margin-top: -400px;
+    padding: 0;
+    background-color: brown;
+    z-index: 10;
+    position: relative;
+       
+}
